@@ -3,8 +3,8 @@
 // ============================================
 
 // Default credentials
-const ADMIN_USERNAME = 'admin';
-const ADMIN_PASSWORD = 'admin123';
+const ADMIN_USERNAME = 'Admin';
+const ADMIN_PASSWORD = '2008@Ankit';
 
 // Initialize data from localStorage or use defaults
 let products = JSON.parse(localStorage.getItem('admin_products')) || [
